@@ -1,0 +1,79 @@
+# 📚 Hugging Face Daily Papers Bot
+
+매일 Hugging Face Daily Papers의 Top 3 논문을 자동으로 분석하고 한국어로 정리해주는 봇입니다.
+
+## 사용법
+
+### 초간단 사용법
+
+Claude Code에서 이 레포지토리를 열고:
+
+```
+/해
+```
+
+또는 그냥:
+
+```
+해
+```
+
+라고 입력하면 끝! 🎉
+
+제가 자동으로:
+1. 🔍 Hugging Face에서 오늘의 Top 3 논문을 가져옵니다
+2. 📖 각 논문의 초록을 분석합니다
+3. ✍️ 전문적이고 읽기 쉬운 한국어로 요약합니다
+4. 📄 깔끔한 마크다운 파일로 저장합니다
+5. 🚀 자동으로 커밋하고 푸시합니다
+
+## 출력 형식
+
+각 논문은 다음 정보를 포함합니다:
+
+- **핵심 요약**: 논문의 핵심 내용 (2-3문장)
+- **주요 내용**: 주요 기여와 방법론 (bullet points)
+- **의의**: 연구의 중요성과 영향
+- **키워드**: 관련 키워드
+
+## 저장 위치
+
+생성된 리포트는 `outputs/daily_papers_YYYY-MM-DD.md` 형식으로 저장됩니다.
+
+## 프로젝트 구조
+
+```
+for_paper/
+├── .claude/
+│   └── commands/
+│       └── 해.md          # 커스텀 slash command
+├── outputs/               # 생성된 daily reports
+├── src/                   # Python 스크립트 (선택사항)
+│   ├── fetch_papers.py
+│   ├── summarize_papers.py
+│   └── main.py
+└── README.md
+```
+
+## 기술 스택
+
+- **Hugging Face API**: Daily Papers 데이터
+- **Claude Code**: 자동화된 워크플로우
+- **Claude AI**: 논문 분석 및 요약
+- **Git**: 버전 관리
+
+## 장점
+
+✅ 매일 아침 "해"라고만 하면 됨
+✅ 한국어로 읽기 쉽게 정리
+✅ 자동으로 Git 커밋/푸시
+✅ 깔끔한 마크다운 형식
+✅ AI가 논문의 핵심을 정확하게 파악
+
+## Latest Report
+
+최신 리포트는 위 명령어를 실행하면 자동으로 생성됩니다!
+
+---
+
+Made with ❤️ by Claude Code
