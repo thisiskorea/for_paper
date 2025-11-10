@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Competitive Programming with Large Reasoning Models",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "OpenAI Team"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 1
+  },
+  {
+    "title": "AlignVLM: Bridging Vision and Language Latent Spaces",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "연구팀 정보"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 2
+  },
+  {
+    "title": "Demystifying Long Chain-of-Thought Reasoning in LLMs",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Edward Yeo",
+      "Yuxuan Tong",
+      "Morry Niu",
+      "Graham Neubig",
+      "Xiang Yue"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 3
+  },
+  {
+    "title": "LIMO: Less is More for Reasoning",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Yixin Ye",
+      "Zhen Huang",
+      "Yang Xiao",
+      "Ethan Chern",
+      "Shijie Xia",
+      "Pengfei Liu"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 4
+  },
+  {
+    "title": "Teaching Language Models to Critique via Reinforcement Learning",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Zhihui Xie",
+      "Jie Chen",
+      "Liyu Chen",
+      "Weichao Mao",
+      "Jingjing Xu",
+      "Lingpeng Kong"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 5
+  },
+  {
+    "title": "Training Language Models to Reason Efficiently",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Daman Arora",
+      "Andrea Zanette"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 6
+  },
+  {
+    "title": "Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Chengqi Lyu",
+      "Songyang Gao",
+      "Yuzhe Gu",
+      "Wenwei Zhang",
+      "Jianfei Gao",
+      "Kuikun Liu",
+      "Ziyi Wang",
+      "Shuaibin Li",
+      "Qian Zhao",
+      "Haian Huang"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 7
+  },
+  {
+    "title": "On the Emergence of Thinking in LLMs I: Searching for the Right Intuition",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Guanghao Ye",
+      "Khiem Duc Pham",
+      "Xinzhi Zhang",
+      "Sivakanth Gopi",
+      "Baolin Peng",
+      "Beibin Li",
+      "Janardhan Kulkarni",
+      "Huseyin A. Inan"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 8
+  },
+  {
+    "title": "LLMs Can Easily Learn to Reason from Demonstrations",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "Dacheng Li",
+      "Shiyi Cao",
+      "Tyler Griggs",
+      "Shu Liu",
+      "Xiangxi Mo",
+      "Eric Tang",
+      "Sumanth Hegde",
+      "Kourosh Hakhamaneshi",
+      "Shishir G. Patil",
+      "Matei Zaharia"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 9
+  },
+  {
+    "title": "Automatic Joint Structured Pruning and Quantization",
+    "arxiv_id": "",
+    "url": "",
+    "huggingface_url": "",
+    "authors": [
+      "연구팀 정보"
+    ],
+    "abstract": "",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "",
+    "rank": 10
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "VGGT: Visual Geometry Grounded Transformer",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "CVPR 2025 Best Paper"
+    ],
+    "abstract": "VGGT introduces geometric grounding to vision transformers, significantly improving 3D understanding and spatial reasoning.",
+    "upvotes": 620,
+    "published_at": "2025-06-05",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "Neural Inverse Rendering from Propagating Light",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "CVPR 2025 Best Student Paper"
+    ],
+    "abstract": "This paper presents a novel approach to inverse rendering using light propagation models for photorealistic reconstruction.",
+    "upvotes": 590,
+    "published_at": "2025-06-07",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "3D Scene Understanding with Neural Radiance Fields",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We advance 3D scene understanding by combining neural radiance fields with semantic segmentation and object detection.",
+    "upvotes": 560,
+    "published_at": "2025-06-10",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Efficient Multimodal Fusion for Vision-Language Tasks",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work introduces efficient fusion techniques for multimodal learning that improve vision-language task performance.",
+    "upvotes": 540,
+    "published_at": "2025-06-12",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Self-Supervised Learning for Video Understanding",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop self-supervised learning methods specifically designed for video understanding tasks with temporal dynamics.",
+    "upvotes": 520,
+    "published_at": "2025-06-15",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Advances in Neural Architecture Search",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper presents breakthrough methods in NAS that discover architectures outperforming hand-designed networks.",
+    "upvotes": 500,
+    "published_at": "2025-06-18",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Generative Models for 3D Content Creation",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We introduce generative models for creating high-quality 3D content from text descriptions or single images.",
+    "upvotes": 490,
+    "published_at": "2025-06-20",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Efficient Training of Diffusion Models",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work develops efficient training techniques that significantly reduce the computational cost of diffusion model training.",
+    "upvotes": 480,
+    "published_at": "2025-06-22",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Face and Pose Analysis with Transformers",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We present transformer-based methods for face and pose analysis that achieve state-of-the-art results across multiple benchmarks.",
+    "upvotes": 470,
+    "published_at": "2025-06-25",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Low-Level Vision with Deep Learning",
+    "paper_id": "",
+    "arxiv_id": "2506.xxxxx",
+    "url": "https://arxiv.org/abs/2506.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper advances low-level vision tasks including denoising, super-resolution, and image enhancement using deep learning.",
+    "upvotes": 460,
+    "published_at": "2025-06-28",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

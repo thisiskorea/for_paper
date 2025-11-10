@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Sparse Activation Distillation: Training Foundational Models Efficiently",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Stanford AI Lab"
+    ],
+    "abstract": "This paper introduces sparse activation distillation, enabling training of foundational models with a fraction of the computational cost.",
+    "upvotes": 650,
+    "published_at": "2025-07-05",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "World Models for Autonomous Agents",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop world models that enable autonomous agents to plan and reason about complex environments with uncertainty.",
+    "upvotes": 610,
+    "published_at": "2025-07-08",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Scaling Laws for Reasoning Models",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work investigates scaling laws specifically for reasoning models, providing insights into optimal compute allocation.",
+    "upvotes": 590,
+    "published_at": "2025-07-10",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Efficient Fine-Tuning with Low-Rank Adaptation",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We introduce advanced low-rank adaptation techniques that enable efficient fine-tuning of large models with minimal parameters.",
+    "upvotes": 570,
+    "published_at": "2025-07-12",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Multimodal Chain-of-Thought Reasoning",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper extends chain-of-thought reasoning to multimodal settings, improving reasoning across vision and language.",
+    "upvotes": 550,
+    "published_at": "2025-07-15",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Neural Program Synthesis from Examples",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop neural program synthesis techniques that generate correct programs from input-output examples with high accuracy.",
+    "upvotes": 530,
+    "published_at": "2025-07-18",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Advances in Test-Time Adaptation",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work presents novel test-time adaptation methods that improve model performance on distribution shifts without retraining.",
+    "upvotes": 520,
+    "published_at": "2025-07-20",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Efficient Memory Management in Large Models",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We introduce memory management techniques that enable training and inference of larger models with limited hardware resources.",
+    "upvotes": 510,
+    "published_at": "2025-07-22",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Compositional Generalization in Neural Networks",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper investigates compositional generalization in neural networks and proposes architectures that improve systematic behavior.",
+    "upvotes": 500,
+    "published_at": "2025-07-25",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Robust Optimization for Deep Learning",
+    "paper_id": "",
+    "arxiv_id": "2507.xxxxx",
+    "url": "https://arxiv.org/abs/2507.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop robust optimization techniques that improve training stability and model performance across diverse settings.",
+    "upvotes": 490,
+    "published_at": "2025-07-28",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

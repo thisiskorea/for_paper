@@ -1,0 +1,152 @@
+[
+  {
+    "title": "AM-Thinking-v1: Open-Source 32B Reasoning Model",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "AM-Thinking-v1 is a dense 32B model achieving state-of-the-art reasoning performance, surpassing much larger models on multiple benchmarks.",
+    "upvotes": 720,
+    "published_at": "2025-09-05",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "AlphaGenome: Efficient Genomic Modeling",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "DeepMind"
+    ],
+    "abstract": "AlphaGenome achieves precise genomic predictions with half the compute of previous methods, with novel RNA splice junction modeling.",
+    "upvotes": 690,
+    "published_at": "2025-09-08",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Tight Generalization Bounds for Large-Margin Halfspaces",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "NeurIPS 2025"
+    ],
+    "abstract": "This paper resolves a decades-long open question by proving the first asymptotically tight generalization bound for large-margin halfspaces.",
+    "upvotes": 670,
+    "published_at": "2025-09-10",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Scaling Inference-Time Computation for Reasoning",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We investigate scaling laws for inference-time computation in reasoning models, revealing optimal trade-offs between compute and performance.",
+    "upvotes": 650,
+    "published_at": "2025-09-12",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Efficient Training with Gradient Checkpointing",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work introduces advanced gradient checkpointing techniques that significantly reduce memory requirements during training.",
+    "upvotes": 630,
+    "published_at": "2025-09-15",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Multimodal Foundation Models: A Survey",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We provide a comprehensive survey of multimodal foundation models, analyzing architectures, training methods, and applications.",
+    "upvotes": 610,
+    "published_at": "2025-09-18",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Neural Theorem Proving at Scale",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper scales neural theorem proving to handle complex mathematical problems, achieving human-level performance on challenging benchmarks.",
+    "upvotes": 600,
+    "published_at": "2025-09-20",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Efficient Attention for Streaming Applications",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop efficient attention mechanisms specifically designed for streaming applications with strict latency requirements.",
+    "upvotes": 590,
+    "published_at": "2025-09-22",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Advances in Neural Code Optimization",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work presents neural methods for code optimization that automatically improve code efficiency and performance.",
+    "upvotes": 580,
+    "published_at": "2025-09-25",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Robust Reinforcement Learning from Human Preferences",
+    "paper_id": "",
+    "arxiv_id": "2509.xxxxx",
+    "url": "https://arxiv.org/abs/2509.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop robust RLHF methods that handle noisy human preferences and improve alignment reliability.",
+    "upvotes": 570,
+    "published_at": "2025-09-28",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

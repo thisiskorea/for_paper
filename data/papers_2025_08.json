@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Virtual Scientist: AI for Autonomous Biological Research",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Stanford University"
+    ],
+    "abstract": "We present a virtual scientist AI system capable of designing, running, and analyzing biological experiments autonomously.",
+    "upvotes": 680,
+    "published_at": "2025-07-31",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "Large Reasoning Models: Theory and Practice",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This comprehensive work provides theoretical foundations and practical guidelines for developing large reasoning models.",
+    "upvotes": 640,
+    "published_at": "2025-08-05",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Quantum-Enhanced Machine Learning",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We explore quantum-enhanced machine learning algorithms that achieve speedups over classical methods for specific problem classes.",
+    "upvotes": 620,
+    "published_at": "2025-08-08",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "AI Agents with Independent Decision-Making",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces AI agents capable of independent decision-making in complex, dynamic environments without human supervision.",
+    "upvotes": 600,
+    "published_at": "2025-08-10",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Scalable Evaluation of Large Language Models",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop scalable evaluation frameworks that enable comprehensive assessment of LLM capabilities across multiple dimensions.",
+    "upvotes": 580,
+    "published_at": "2025-08-12",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Neural Architecture Co-Design with Hardware",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work presents co-design methods that optimize neural architectures jointly with hardware configurations.",
+    "upvotes": 570,
+    "published_at": "2025-08-15",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Advances in Causal Representation Learning",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop causal representation learning methods that enable models to learn interpretable causal structures from data.",
+    "upvotes": 560,
+    "published_at": "2025-08-18",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Efficient Inference for Multimodal Models",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces efficient inference techniques that reduce latency and computational cost for multimodal models.",
+    "upvotes": 550,
+    "published_at": "2025-08-20",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Meta-Learning for Few-Shot Adaptation",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We present meta-learning approaches that enable rapid adaptation to new tasks with minimal examples and fine-tuning.",
+    "upvotes": 540,
+    "published_at": "2025-08-22",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Trustworthy AI: Verification and Validation",
+    "paper_id": "",
+    "arxiv_id": "2508.xxxxx",
+    "url": "https://arxiv.org/abs/2508.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work develops verification and validation methods for ensuring trustworthy AI system behavior in critical applications.",
+    "upvotes": 530,
+    "published_at": "2025-08-25",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

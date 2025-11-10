@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability via Reinforcement Learning",
+    "arxiv_id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "huggingface_url": "",
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "abstract": "**추론 능력의 한계**: 기존 LLM들은 복잡한 수학 문제나 다단계 추론 과제에서 한계를 보였습니다. OpenAI의 o1이 뛰어난 추론 성능을 보였지만 폐쇄적이었고, 어떻게 그런 능력을 달성했는지 불분명했습니다.\n\n**핵심 질문들**:\n- SFT(Supervised Fine-Tuning) 없이 순수 RL만으로 추론 능력을 학습할 수 있는가?\n- 어떤 종류의 추론 행동들이 RL 과정에서 자발적으로 출현하는가?\n- 오픈소스 모델로도 o1 수준에 도달할 수 있는가?\n\n이 연구는 \"**추론 능력은 학습될 수 있다**\"는 가설을 검증하고자 했습니다.",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "순수 RL만으로도 LLM이 놀라운 추론 능력을 자발적으로 학습할 수 있음을 증명한 획기적인 연구. OpenAI o1에 필적하는 성능을 달성하며 오픈소스로 공개.",
+    "rank": 1
+  },
+  {
+    "title": "Towards Large Reasoning Models: A Survey",
+    "arxiv_id": "2501.09686",
+    "url": "https://arxiv.org/abs/2501.09686",
+    "huggingface_url": "",
+    "authors": [
+      "Fengli Xu 외 19명 - Tsinghua University 주도"
+    ],
+    "abstract": "**Reasoning의 중요성**: 언어는 인간 추론의 핵심 도구입니다. LLM이 단순 토큰 생성을 넘어 **\"생각\"**할 수 있다면?\n\n**Paradigm Shift**:\n- 기존: Autoregressive token generation\n- 새로운: \"Thought\" 개념 도입\n  - Thought = 중간 추론 단계를 나타내는 token sequence\n  - 인간의 복잡한 추론 과정 모방\n\n**RL의 역할**:\n- Trial-and-error로 추론 과정 학습\n- 고품질 reasoning trajectory 자동 생성\n- Training data의 기하급수적 확장\n\n**OpenAI o1의 영향**: o1 시리즈의 등장이 이 연구 방향의 중요한 milestone",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "Reinforced Reasoning with LLMs에 대한 포괄적 서베이. RL이 어떻게 LLM의 추론 능력을 극적으로 향상시키는지 체계적으로 정리.",
+    "rank": 4
+  },
+  {
+    "title": "The Lessons of Developing Process Reward Models in Mathematical Reasoning",
+    "arxiv_id": "2501.07301",
+    "url": "https://arxiv.org/abs/2501.07301",
+    "huggingface_url": "",
+    "authors": [
+      "Zhenru Zhang",
+      "Chujie Zheng 외 - Qwen Team",
+      "Alibaba"
+    ],
+    "abstract": "**Process Supervision의 중요성**: 추론 모델이 최종 답만 맞추는 것이 아니라, **중간 과정**도 정확해야 합니다.\n\n**문제점**:\n- Outcome Reward Model(ORM)은 중간 오류 탐지 불가\n- 잘못된 추론 과정으로도 우연히 정답 도달 가능\n- 이런 모델은 일반화 능력 부족\n\n**PRM의 필요성**:\n- 각 추론 단계의 정확성 평가\n- 오류 발생 지점 정확히 파악\n- 더 robust한 추론 모델 훈련\n\n**핵심 질문**: PRM을 어떻게 효과적으로 만들 것인가?",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "Process Reward Model(PRM) 개발의 핵심 교훈을 정리한 실무 중심 논문. MC estimation의 한계를 지적하고, LLM-as-a-judge와 human annotation의 우수성을 입증.",
+    "rank": 5
+  },
+  {
+    "title": "Meta Chain-of-Thought: Towards System 2 Reasoning",
+    "arxiv_id": "2501.04682",
+    "url": "https://arxiv.org/abs/2501.04682",
+    "huggingface_url": "",
+    "authors": [
+      "Violet Xiang",
+      "Charlie Snell 외 - Stanford University"
+    ],
+    "abstract": "**인간 사고의 이중 체계** (Daniel Kahneman):\n- **System 1**: 빠르고, 직관적, 자동적\n- **System 2**: 느리고, 숙고적, 의식적\n\n**LLM의 현 상태**:\n- 대부분 System 1 수준\n- CoT는 System 2의 시작이지만 불충분\n- \"무엇을 생각할지\"는 알지만 \"어떻게 생각할지\"는 모름\n\n**Meta-CoT의 필요성**:\n- 추론 **과정 자체**를 추론\n- 문제에 따라 추론 전략 선택\n- Search, backtracking, verification 등",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "CoT를 넘어 \"어떻게 생각할지를 생각하는\" Meta-CoT 제안. System 1(직관)에서 System 2(숙고)로의 진화를 LLM에서 구현.",
+    "rank": 6
+  },
+  {
+    "title": "MObI: Multimodal Object Inpainting Using Diffusion Models",
+    "arxiv_id": "2501.03173",
+    "url": "https://arxiv.org/abs/2501.03173",
+    "huggingface_url": "",
+    "authors": [
+      "Alexandru Buburuzan",
+      "Anuj Sharma 외"
+    ],
+    "abstract": "**자율주행 테스팅의 과제**:\n- 실제 데이터 수집은 비싸고 위험\n- Edge case는 드물게 발생\n- 다양한 시나리오 필요 (비, 밤, 다양한 객체 등)\n\n**Synthetic Data의 필요성**:\n- 안전하게 위험 상황 시뮬레이션\n- 원하는 시나리오 on-demand 생성\n- 대량의 다양한 데이터\n\n**기존 방법의 한계**:\n- 단일 modality만 편집 (RGB or Lidar)\n- Multimodal consistency 부족\n- 3D spatial positioning 부정확\n\n**MObI의 목표**: RGB + Lidar를 동시에, 3D-aware하게, 사실적으로 편집",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "자율주행 등 안전 critical 분야를 위한 멀티모달 object inpainting. 카메라+라이다 동시 편집으로 사실적 테스트 시나리오 생성.",
+    "rank": 7
+  },
+  {
+    "title": "Large Vision Language Models Survey",
+    "arxiv_id": "2501.02189",
+    "url": "https://arxiv.org/abs/2501.02189",
+    "huggingface_url": "",
+    "authors": [
+      "Zongxia Li",
+      "Xiyang Wu 외"
+    ],
+    "abstract": "**Multimodal AI의 부상**: 시각과 언어를 동시에 이해하는 AI는 더 인간 like하고 실용적입니다.\n\n**VLM의 진화**:\n- **Early (2021)**: CLIP - contrastive learning\n- **Mid (2022-2023)**: Flamingo, BLIP - generative models\n- **Recent (2024-2025)**: GPT-4V, Gemini, Claude - 대규모 상용 모델\n\n**Survey의 필요성**:\n- 빠른 발전으로 전체 그림 파악 어려움\n- 아키텍처 패턴 정리 필요\n- Benchmark 성능 비교 필요\n- 미래 연구 방향 제시",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "2025년 초까지의 Vision-Language Models를 망라한 종합 서베이. CLIP부터 GPT-4V까지, 아키텍처 evolution과 benchmark 정리.",
+    "rank": 8
+  },
+  {
+    "title": "RAG-Check: Evaluating Multimodal RAG Performance",
+    "arxiv_id": "2501.03995",
+    "url": "https://arxiv.org/abs/2501.03995",
+    "huggingface_url": "",
+    "authors": [
+      "Matin Mortaheb 외"
+    ],
+    "abstract": "**RAG의 중요성**: Retrieval-Augmented Generation은 LLM의 hallucination을 줄이고 최신 정보를 제공합니다.\n\n**Multimodal RAG의 필요성**:\n- 현실 세계 정보는 text + image\n- 의료 영상, 제품 문서, 뉴스 등\n- Text-only RAG로는 불충분\n\n**평가의 어려움**:\n- Retrieval quality (관련 문서 찾기)\n- Generation quality (좋은 답변 생성)\n- Multimodal coherence (text-image alignment)\n- End-to-end performance\n\n**RAG-Check의 목표**: Multimodal RAG를 체계적으로 평가하는 프레임워크",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "Multimodal RAG 시스템을 종합적으로 평가하는 최초의 벤치마크. 텍스트+이미지 retrieval과 generation을 동시에 측정.",
+    "rank": 9
+  },
+  {
+    "title": "ACEBench: Who Wins the Match Point in Tool Usage?",
+    "arxiv_id": "2501.12851",
+    "url": "https://arxiv.org/abs/2501.12851",
+    "huggingface_url": "",
+    "authors": [],
+    "abstract": "**LLM Agents의 부상**: Tool을 사용하는 LLM은 단순 text generation을 넘어 복잡한 문제 해결이 가능합니다.\n\n**기존 Benchmark의 한계**:\n1. **Limited Scenarios**: 단순한 single-turn 평가만\n2. **Narrow Dimensions**: Tool 선택만 평가, 사용 과정은 무시\n3. **Evaluation Overhead**: 실제 API 호출 필요, 비싸고 느림\n\n**ACEBench의 목표**:\n- Multi-turn dialogue 맥락에서 평가\n- 세밀한 평가 차원 (selection, usage, error handling)\n- 효율적 평가 (real API call 불필요)",
+    "upvotes": 0,
+    "published_at": "",
+    "summary": "LLM agent의 tool 사용 능력을 포괄적으로 평가하는 벤치마크. Multi-turn dialogue, detailed assessment dimensions, efficient evaluation.",
+    "rank": 10
+  }
+]

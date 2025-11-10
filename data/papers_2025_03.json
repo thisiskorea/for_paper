@@ -1,0 +1,152 @@
+[
+  {
+    "title": "System 2 Distillation: Improving Small Language Models with Structured CoT",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We propose System 2 Distillation, a method to improve small language models by distilling structured chain-of-thought reasoning from larger models. Our approach significantly improves reasoning capabilities while maintaining efficiency.",
+    "upvotes": 450,
+    "published_at": "2025-03-05",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "Multi-Agent Reinforcement Learning for Complex Task Planning",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We present a novel framework for multi-agent reinforcement learning that enables complex task planning and coordination in dynamic environments.",
+    "upvotes": 420,
+    "published_at": "2025-03-10",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Efficient Fine-Tuning of Vision-Language Models with Parameter-Efficient Methods",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces parameter-efficient fine-tuning methods for large vision-language models, reducing computational costs while maintaining performance.",
+    "upvotes": 410,
+    "published_at": "2025-03-12",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Neural Architecture Search for Edge AI Applications",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop automated neural architecture search techniques specifically designed for edge AI applications with strict resource constraints.",
+    "upvotes": 390,
+    "published_at": "2025-03-15",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Scaling Laws for Mixture-of-Experts Models",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work investigates scaling laws for mixture-of-experts architectures, providing insights into optimal model design and training strategies.",
+    "upvotes": 385,
+    "published_at": "2025-03-18",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Advances in Diffusion Models for Video Generation",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We present novel techniques for video generation using diffusion models, achieving unprecedented quality and temporal coherence.",
+    "upvotes": 375,
+    "published_at": "2025-03-20",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Robust Evaluation Metrics for Large Language Models",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper proposes new evaluation metrics for LLMs that better capture real-world performance and address limitations of existing benchmarks.",
+    "upvotes": 360,
+    "published_at": "2025-03-22",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Privacy-Preserving Federated Learning at Scale",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We introduce scalable privacy-preserving techniques for federated learning, enabling collaborative training without compromising data security.",
+    "upvotes": 350,
+    "published_at": "2025-03-25",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Interpretable Attention Mechanisms in Transformer Models",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work develops interpretable attention mechanisms that provide insights into transformer model decision-making processes.",
+    "upvotes": 340,
+    "published_at": "2025-03-28",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Continual Learning with Memory Consolidation",
+    "paper_id": "",
+    "arxiv_id": "2503.xxxxx",
+    "url": "https://arxiv.org/abs/2503.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We propose memory consolidation techniques for continual learning that reduce catastrophic forgetting while improving knowledge retention.",
+    "upvotes": 330,
+    "published_at": "2025-03-30",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

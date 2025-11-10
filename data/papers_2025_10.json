@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Emu3.5: Large-Scale Multimodal World Model",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Beijing Academy of AI"
+    ],
+    "abstract": "Emu3.5 is a large-scale multimodal world model that predicts next states in vision and language, enhanced with RL and discrete diffusion.",
+    "upvotes": 750,
+    "published_at": "2025-10-30",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "RAG-Anything: Unified Multimodal Knowledge Retrieval",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "RAG-Anything provides a unified framework for multimodal knowledge retrieval, integrating cross-modal relationships and semantic matching.",
+    "upvotes": 710,
+    "published_at": "2025-10-14",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Tiny Recursive Model: Generalization from Minimal Parameters",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Samsung SAIT AI Lab"
+    ],
+    "abstract": "TRM achieves remarkable generalization on complex puzzle tasks using only a two-layer network with minimal parameters.",
+    "upvotes": 680,
+    "published_at": "2025-10-06",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Advances in AI Safety and Alignment",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper presents comprehensive approaches to AI safety, addressing alignment challenges across multiple dimensions of model behavior.",
+    "upvotes": 660,
+    "published_at": "2025-10-10",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Neural Architecture Search with Reinforcement Learning",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We combine neural architecture search with reinforcement learning to discover architectures optimized for specific downstream tasks.",
+    "upvotes": 640,
+    "published_at": "2025-10-12",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Efficient Multimodal Pre-training Strategies",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work explores efficient multimodal pre-training strategies that reduce computational costs while maintaining performance.",
+    "upvotes": 620,
+    "published_at": "2025-10-15",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Advances in Neural Video Compression",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We present neural video compression techniques that achieve superior compression ratios while maintaining visual quality.",
+    "upvotes": 610,
+    "published_at": "2025-10-18",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Scalable Distributed Training for Foundation Models",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces scalable distributed training methods that enable efficient training of foundation models across thousands of GPUs.",
+    "upvotes": 600,
+    "published_at": "2025-10-20",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Interpretable Machine Learning at Scale",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop interpretable machine learning techniques that scale to large models while maintaining explanation quality.",
+    "upvotes": 590,
+    "published_at": "2025-10-22",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Advances in Continual Learning Systems",
+    "paper_id": "",
+    "arxiv_id": "2510.xxxxx",
+    "url": "https://arxiv.org/abs/2510.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work presents continual learning systems that efficiently adapt to new tasks while retaining performance on previous tasks.",
+    "upvotes": 580,
+    "published_at": "2025-10-25",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

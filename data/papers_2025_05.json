@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Qwen3 Technical Report",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Alibaba Cloud"
+    ],
+    "abstract": "Qwen3 introduces significant improvements in multimodal understanding, reasoning, and coding capabilities across multiple model sizes.",
+    "upvotes": 580,
+    "published_at": "2025-05-14",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "SAM 2: Segment Anything in Images and Videos",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Nikhila Ravi, Meta AI"
+    ],
+    "abstract": "SAM 2 extends the Segment Anything Model to video data, enabling unified segmentation across images and video frames.",
+    "upvotes": 560,
+    "published_at": "2025-05-18",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anthropic"
+    ],
+    "abstract": "We present Constitutional AI, a method for training harmless AI assistants using only AI-generated feedback on harmful outputs.",
+    "upvotes": 540,
+    "published_at": "2025-05-20",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Efficient Attention Mechanisms for Long Context",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces efficient attention mechanisms that enable processing of extremely long contexts with linear complexity.",
+    "upvotes": 510,
+    "published_at": "2025-05-22",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Neural Code Generation with Program Synthesis",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We combine neural code generation with program synthesis techniques to improve code correctness and functionality.",
+    "upvotes": 490,
+    "published_at": "2025-05-24",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Advances in Retrieval-Augmented Generation",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work presents new architectures for RAG systems that significantly improve factual accuracy and information retrieval.",
+    "upvotes": 470,
+    "published_at": "2025-05-26",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Scaling Reinforcement Learning from Human Feedback",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We develop scalable RLHF techniques that enable efficient training of large models with human preferences.",
+    "upvotes": 460,
+    "published_at": "2025-05-27",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Multimodal Pre-training at Scale",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper explores efficient multimodal pre-training strategies for training models on diverse data modalities at scale.",
+    "upvotes": 450,
+    "published_at": "2025-05-28",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Benchmark for Evaluating AI Safety",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We introduce comprehensive benchmarks for evaluating AI safety properties including robustness, fairness, and alignment.",
+    "upvotes": 440,
+    "published_at": "2025-05-29",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Energy-Efficient Training of Large Models",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work develops energy-efficient training techniques that reduce the carbon footprint of large model training by 50%.",
+    "upvotes": 430,
+    "published_at": "2025-05-30",
+    "thumbnail": "",
+    "rank": 10
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Phi-4-Mini-Reasoning: Efficient Small-Scale Reasoning Models",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Microsoft Research"
+    ],
+    "abstract": "Phi-4-Mini-Reasoning demonstrates that small-scale models can achieve strong reasoning capabilities through efficient training and architecture design.",
+    "upvotes": 520,
+    "published_at": "2025-04-30",
+    "thumbnail": "",
+    "rank": 1
+  },
+  {
+    "title": "Llama-Nemotron: Efficient Reasoning Models at Scale",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "NVIDIA"
+    ],
+    "abstract": "Llama-Nemotron introduces efficient reasoning capabilities to the Llama family, demonstrating superior performance on complex tasks.",
+    "upvotes": 510,
+    "published_at": "2025-05-02",
+    "thumbnail": "",
+    "rank": 2
+  },
+  {
+    "title": "RM-R1: Reward Modeling as Reasoning",
+    "paper_id": "",
+    "arxiv_id": "2505.xxxxx",
+    "url": "https://arxiv.org/abs/2505.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "RM-R1 reframes reward modeling as a reasoning task, improving RLHF training effectiveness and model alignment.",
+    "upvotes": 480,
+    "published_at": "2025-05-05",
+    "thumbnail": "",
+    "rank": 3
+  },
+  {
+    "title": "Data Shapley in One Training Run",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Jiachen T. Wang et al."
+    ],
+    "abstract": "This paper introduces In-Run Data Shapley, enabling efficient measurement of training example contributions without retraining.",
+    "upvotes": 460,
+    "published_at": "2025-04-15",
+    "thumbnail": "",
+    "rank": 4
+  },
+  {
+    "title": "Faster Cascades via Speculative Decoding",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Harikrishna Narasimhan et al."
+    ],
+    "abstract": "We present techniques for accelerating LLM inference through improved speculative decoding and cascade architectures.",
+    "upvotes": 450,
+    "published_at": "2025-04-20",
+    "thumbnail": "",
+    "rank": 5
+  },
+  {
+    "title": "Explainable AI: Beyond Black Box Models",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work advances explainable AI by developing new methods for interpreting complex model decisions in production systems.",
+    "upvotes": 430,
+    "published_at": "2025-04-22",
+    "thumbnail": "",
+    "rank": 6
+  },
+  {
+    "title": "Multimodal Alignment for Vision-Language Models",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We propose novel alignment techniques for vision-language models that improve cross-modal understanding and generation.",
+    "upvotes": 420,
+    "published_at": "2025-04-25",
+    "thumbnail": "",
+    "rank": 7
+  },
+  {
+    "title": "Efficient Training of Billion-Parameter Models",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This paper introduces training optimizations that reduce the computational cost of training billion-parameter models by up to 40%.",
+    "upvotes": 410,
+    "published_at": "2025-04-27",
+    "thumbnail": "",
+    "rank": 8
+  },
+  {
+    "title": "Robustness in Large Language Models",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "We investigate robustness properties of LLMs and propose techniques to improve model stability under adversarial conditions.",
+    "upvotes": 400,
+    "published_at": "2025-04-28",
+    "thumbnail": "",
+    "rank": 9
+  },
+  {
+    "title": "Few-Shot Learning with Prompting Strategies",
+    "paper_id": "",
+    "arxiv_id": "2504.xxxxx",
+    "url": "https://arxiv.org/abs/2504.xxxxx",
+    "huggingface_url": "",
+    "authors": [
+      "Anonymous et al."
+    ],
+    "abstract": "This work explores advanced prompting strategies that significantly improve few-shot learning performance in large language models.",
+    "upvotes": 390,
+    "published_at": "2025-04-29",
+    "thumbnail": "",
+    "rank": 10
+  }
+]
